@@ -42,6 +42,6 @@ https://www.youtube.com/watch?v=9RZblj1uQ_0
 </br>
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/andersousasilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="And" height="30" width="40" /></a
-  <a href="https://www.hackerrank.com/andersousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ander" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/andersousasilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="And" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/andersousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ander" height="30" width="40" /></a>
 </p>
